@@ -1,0 +1,27 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #eef2f3;
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    font-family: monospace;
+    padding: 10px;
+}
+button {
+    margin: 10px 0;
+    padding: 10px 20px;
+}
+#report {
+    background: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+.error {
+    color: red;
+}
+.valid {
+    color: green;
+}
